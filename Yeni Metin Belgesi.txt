@@ -1,0 +1,378 @@
+
+200
+{'marka': 'Alfa Romeo', 'model': 'Otomobil'}
+{'marka': 'Alfa Romeo', 'model': '145'}
+{'marka': 'Alfa Romeo', 'model': '146'}
+{'marka': 'Alfa Romeo', 'model': '147'}
+{'marka': 'Alfa Romeo', 'model': '155'}
+{'marka': 'Alfa Romeo', 'model': '156'}
+{'marka': 'Alfa Romeo', 'model': '159'}
+{'marka': 'Alfa Romeo', 'model': '164'}
+{'marka': 'Alfa Romeo', 'model': '166'}
+{'marka': 'Alfa Romeo', 'model': '33'}
+{'marka': 'Alfa Romeo', 'model': '4C'}
+{'marka': 'Alfa Romeo', 'model': 'Brera'}
+{'marka': 'Alfa Romeo', 'model': 'Giulietta'}
+{'marka': 'Alfa Romeo', 'model': 'GT'}
+{'marka': 'Alfa Romeo', 'model': 'GTV'}
+{'marka': 'Alfa Romeo', 'model': 'MiTo'}
+200
+{'marka': 'Anadol', 'model': 'Otomobil'}
+{'marka': 'Anadol', 'model': 'A2'}
+200
+{'marka': 'Aston Martin', 'model': 'Otomobil'}
+{'marka': 'Aston Martin', 'model': 'Cygnet'}
+{'marka': 'Aston Martin', 'model': 'DB9'}
+{'marka': 'Aston Martin', 'model': 'DB11'}
+{'marka': 'Aston Martin', 'model': 'DBS'}
+{'marka': 'Aston Martin', 'model': 'Rapide'}
+{'marka': 'Aston Martin', 'model': 'Vanquish'}
+{'marka': 'Aston Martin', 'model': 'Vantage'}
+{'marka': 'Aston Martin', 'model': 'Virage'}
+200
+{'marka': 'Audi', 'model': 'Otomobil'}
+{'marka': 'Audi', 'model': 'A1'}
+{'marka': 'Audi', 'model': 'A3'}
+{'marka': 'Audi', 'model': 'A4'}
+{'marka': 'Audi', 'model': 'A5'}
+{'marka': 'Audi', 'model': 'A6'}
+{'marka': 'Audi', 'model': 'A7'}
+{'marka': 'Audi', 'model': 'A8'}
+{'marka': 'Audi', 'model': 'R8'}
+{'marka': 'Audi', 'model': 'RS'}
+{'marka': 'Audi', 'model': 'S'}
+{'marka': 'Audi', 'model': 'TT'}
+{'marka': 'Audi', 'model': '80 Serisi'}
+{'marka': 'Audi', 'model': '90 Serisi'}
+{'marka': 'Audi', 'model': '100 Serisi'}
+{'marka': 'Audi', 'model': '200'}
+200
+{'marka': 'Bentley', 'model': 'Otomobil'}
+{'marka': 'Bentley', 'model': 'Continental'}
+{'marka': 'Bentley', 'model': 'Mulsanne'}
+200
+{'marka': 'BMW', 'model': 'Otomobil'}
+{'marka': 'BMW', 'model': '1 Serisi'}
+{'marka': 'BMW', 'model': '2 Serisi'}
+{'marka': 'BMW', 'model': '3 Serisi'}
+{'marka': 'BMW', 'model': '4 Serisi'}
+{'marka': 'BMW', 'model': '5 Serisi'}
+{'marka': 'BMW', 'model': '6 Serisi'}
+{'marka': 'BMW', 'model': '7 Serisi'}
+{'marka': 'BMW', 'model': 'i Serisi'}
+{'marka': 'BMW', 'model': 'M Serisi'}
+{'marka': 'BMW', 'model': 'Z Serisi'}
+200
+{'marka': 'Citroen', 'model': 'Otomobil'}
+{'marka': 'Citroen', 'model': 'BX'}
+{'marka': 'Citroen', 'model': 'C1'}
+{'marka': 'Citroen', 'model': 'C2'}
+{'marka': 'Citroen', 'model': 'C3'}
+{'marka': 'Citroen', 'model': 'C3 Picasso'}
+{'marka': 'Citroen', 'model': 'C4'}
+{'marka': 'Citroen', 'model': 'C4 Grand Picasso'}
+{'marka': 'Citroen', 'model': 'C4 Picasso'}
+{'marka': 'Citroen', 'model': 'C5'}
+{'marka': 'Citroen', 'model': 'C6'}
+{'marka': 'Citroen', 'model': 'C8'}
+{'marka': 'Citroen', 'model': 'C-Elysee'}
+{'marka': 'Citroen', 'model': 'Evasion'}
+{'marka': 'Citroen', 'model': 'Saxo'}
+{'marka': 'Citroen', 'model': 'Xantia'}
+{'marka': 'Citroen', 'model': 'Xsara'}
+{'marka': 'Citroen', 'model': 'ZX'}
+200
+{'marka': 'Dacia', 'model': 'Otomobil'}
+{'marka': 'Dacia', 'model': '1304'}
+{'marka': 'Dacia', 'model': 'Lodgy'}
+{'marka': 'Dacia', 'model': 'Logan'}
+{'marka': 'Dacia', 'model': 'Sandero'}
+{'marka': 'Dacia', 'model': 'Solenza'}
+200
+{'marka': 'Fiat', 'model': 'Otomobil'}
+{'marka': 'Fiat', 'model': '126 Bis'}
+{'marka': 'Fiat', 'model': '500 Abarth'}
+{'marka': 'Fiat', 'model': '500 Ailesi'}
+{'marka': 'Fiat', 'model': 'Albea'}
+{'marka': 'Fiat', 'model': 'Brava'}
+{'marka': 'Fiat', 'model': 'Bravo'}
+{'marka': 'Fiat', 'model': 'Coupe'}
+{'marka': 'Fiat', 'model': 'Croma'}
+{'marka': 'Fiat', 'model': 'Egea'}
+{'marka': 'Fiat', 'model': 'Idea'}
+{'marka': 'Fiat', 'model': 'Linea'}
+{'marka': 'Fiat', 'model': 'Marea'}
+{'marka': 'Fiat', 'model': 'Palio'}
+{'marka': 'Fiat', 'model': 'Panda'}
+{'marka': 'Fiat', 'model': 'Punto'}
+{'marka': 'Fiat', 'model': 'Regata'}
+{'marka': 'Fiat', 'model': 'Sedici'}
+{'marka': 'Fiat', 'model': 'Siena'}
+{'marka': 'Fiat', 'model': 'Stilo'}
+{'marka': 'Fiat', 'model': 'Tempra'}
+{'marka': 'Fiat', 'model': 'Tipo'}
+{'marka': 'Fiat', 'model': 'Uno'}
+200
+{'marka': 'Ford', 'model': 'Otomobil'}
+{'marka': 'Ford', 'model': 'B-Max'}
+{'marka': 'Ford', 'model': 'C-Max'}
+{'marka': 'Ford', 'model': 'Cougar'}
+{'marka': 'Ford', 'model': 'Escort'}
+{'marka': 'Ford', 'model': 'Festiva'}
+{'marka': 'Ford', 'model': 'Fiesta'}
+{'marka': 'Ford', 'model': 'Focus'}
+{'marka': 'Ford', 'model': 'Fusion'}
+{'marka': 'Ford', 'model': 'Galaxy'}
+{'marka': 'Ford', 'model': 'Granada'}
+{'marka': 'Ford', 'model': 'Ka'}
+{'marka': 'Ford', 'model': 'Mondeo'}
+{'marka': 'Ford', 'model': 'Mustang'}
+{'marka': 'Ford', 'model': 'Scorpio'}
+{'marka': 'Ford', 'model': 'Sierra'}
+{'marka': 'Ford', 'model': 'S-Max'}
+{'marka': 'Ford', 'model': 'Taunus'}
+{'marka': 'Ford', 'model': 'Taurus'}
+200
+{'marka': 'Honda', 'model': 'Otomobil'}
+{'marka': 'Honda', 'model': 'Accord'}
+{'marka': 'Honda', 'model': 'City'}
+{'marka': 'Honda', 'model': 'Civic'}
+{'marka': 'Honda', 'model': 'CRX'}
+{'marka': 'Honda', 'model': 'CR-Z'}
+{'marka': 'Honda', 'model': 'Integra'}
+{'marka': 'Honda', 'model': 'Jazz'}
+{'marka': 'Honda', 'model': 'Legend'}
+{'marka': 'Honda', 'model': 'Prelude'}
+{'marka': 'Honda', 'model': 'Shuttle'}
+200
+{'marka': 'Hyundai', 'model': 'Otomobil'}
+{'marka': 'Hyundai', 'model': 'Accent'}
+{'marka': 'Hyundai', 'model': 'Accent Blue'}
+{'marka': 'Hyundai', 'model': 'Accent Era'}
+{'marka': 'Hyundai', 'model': 'Atos'}
+{'marka': 'Hyundai', 'model': 'Coupe'}
+{'marka': 'Hyundai', 'model': 'Elantra'}
+{'marka': 'Hyundai', 'model': 'Excel'}
+{'marka': 'Hyundai', 'model': 'Genesis'}
+{'marka': 'Hyundai', 'model': 'Getz'}
+{'marka': 'Hyundai', 'model': 'Grandeur'}
+{'marka': 'Hyundai', 'model': 'Ioniq'}
+{'marka': 'Hyundai', 'model': 'i10'}
+{'marka': 'Hyundai', 'model': 'i20'}
+{'marka': 'Hyundai', 'model': 'i20 Active'}
+{'marka': 'Hyundai', 'model': 'i20 Troy'}
+{'marka': 'Hyundai', 'model': 'i30'}
+{'marka': 'Hyundai', 'model': 'i40'}
+{'marka': 'Hyundai', 'model': 'ix20'}
+{'marka': 'Hyundai', 'model': 'Matrix'}
+{'marka': 'Hyundai', 'model': 'S-Coupe'}
+{'marka': 'Hyundai', 'model': 'Sonata'}
+{'marka': 'Hyundai', 'model': 'Trajet'}
+200
+{'marka': 'Kia', 'model': 'Otomobil'}
+{'marka': 'Kia', 'model': 'Capital'}
+{'marka': 'Kia', 'model': 'Carens'}
+{'marka': 'Kia', 'model': 'Carnival'}
+{'marka': 'Kia', 'model': 'Ceed'}
+{'marka': 'Kia', 'model': 'Cerato'}
+{'marka': 'Kia', 'model': 'Clarus'}
+{'marka': 'Kia', 'model': 'Magentis'}
+{'marka': 'Kia', 'model': 'Opirus'}
+{'marka': 'Kia', 'model': 'Optima'}
+{'marka': 'Kia', 'model': 'Picanto'}
+{'marka': 'Kia', 'model': 'Pride'}
+{'marka': 'Kia', 'model': 'Pro Ceed'}
+{'marka': 'Kia', 'model': 'Rio'}
+{'marka': 'Kia', 'model': 'Sephia'}
+{'marka': 'Kia', 'model': 'Shuma'}
+{'marka': 'Kia', 'model': 'Venga'}
+200
+{'marka': 'Lada', 'model': 'Otomobil'}
+{'marka': 'Lada', 'model': 'Kalina'}
+{'marka': 'Lada', 'model': 'Samara'}
+{'marka': 'Lada', 'model': 'VAZ'}
+{'marka': 'Lada', 'model': 'Vega'}
+200
+{'marka': 'Mercedes - Benz', 'model': 'Otomobil'}
+{'marka': 'Mercedes - Benz', 'model': 'A'}
+{'marka': 'Mercedes - Benz', 'model': 'AMG GT'}
+{'marka': 'Mercedes - Benz', 'model': 'B'}
+{'marka': 'Mercedes - Benz', 'model': 'C'}
+{'marka': 'Mercedes - Benz', 'model': 'CL'}
+{'marka': 'Mercedes - Benz', 'model': 'CLA'}
+{'marka': 'Mercedes - Benz', 'model': 'CLC'}
+{'marka': 'Mercedes - Benz', 'model': 'CLK'}
+{'marka': 'Mercedes - Benz', 'model': 'CLS'}
+{'marka': 'Mercedes - Benz', 'model': 'E'}
+{'marka': 'Mercedes - Benz', 'model': 'S'}
+{'marka': 'Mercedes - Benz', 'model': 'SL'}
+{'marka': 'Mercedes - Benz', 'model': 'SLC'}
+{'marka': 'Mercedes - Benz', 'model': 'SLK'}
+{'marka': 'Mercedes - Benz', 'model': 'SLS'}
+{'marka': 'Mercedes - Benz', 'model': '190'}
+{'marka': 'Mercedes - Benz', 'model': '200'}
+{'marka': 'Mercedes - Benz', 'model': '230'}
+{'marka': 'Mercedes - Benz', 'model': '240'}
+{'marka': 'Mercedes - Benz', 'model': '250'}
+{'marka': 'Mercedes - Benz', 'model': '260'}
+{'marka': 'Mercedes - Benz', 'model': '280'}
+{'marka': 'Mercedes - Benz', 'model': '300'}
+{'marka': 'Mercedes - Benz', 'model': '320'}
+{'marka': 'Mercedes - Benz', 'model': '420'}
+{'marka': 'Mercedes - Benz', 'model': '500'}
+{'marka': 'Mercedes - Benz', 'model': '600'}
+200
+{'marka': 'MINI', 'model': 'Otomobil'}
+{'marka': 'MINI', 'model': 'Cooper'}
+{'marka': 'MINI', 'model': 'Cooper Clubman'}
+{'marka': 'MINI', 'model': 'Cooper S'}
+{'marka': 'MINI', 'model': 'John Cooper'}
+{'marka': 'MINI', 'model': 'One'}
+200
+{'marka': 'Mitsubishi', 'model': 'Otomobil'}
+{'marka': 'Mitsubishi', 'model': 'Attrage'}
+{'marka': 'Mitsubishi', 'model': 'Carisma'}
+{'marka': 'Mitsubishi', 'model': 'Colt'}
+{'marka': 'Mitsubishi', 'model': 'Eclipse'}
+{'marka': 'Mitsubishi', 'model': 'Galant'}
+{'marka': 'Mitsubishi', 'model': 'Grandis'}
+{'marka': 'Mitsubishi', 'model': 'Lancer'}
+{'marka': 'Mitsubishi', 'model': 'Lancer Evolution'}
+{'marka': 'Mitsubishi', 'model': 'Space Star'}
+200
+{'marka': 'Nissan', 'model': 'Otomobil'}
+{'marka': 'Nissan', 'model': '100 NX'}
+{'marka': 'Nissan', 'model': '200 SX'}
+{'marka': 'Nissan', 'model': '300 ZX'}
+{'marka': 'Nissan', 'model': '350 Z'}
+{'marka': 'Nissan', 'model': 'Almera'}
+{'marka': 'Nissan', 'model': 'Altima'}
+{'marka': 'Nissan', 'model': 'Bluebird'}
+{'marka': 'Nissan', 'model': 'GT-R'}
+{'marka': 'Nissan', 'model': 'Laurel Altima'}
+{'marka': 'Nissan', 'model': 'Maxima'}
+{'marka': 'Nissan', 'model': 'Micra'}
+{'marka': 'Nissan', 'model': 'Note'}
+{'marka': 'Nissan', 'model': 'NX Coupe'}
+{'marka': 'Nissan', 'model': 'Primera'}
+{'marka': 'Nissan', 'model': 'Pulsar'}
+{'marka': 'Nissan', 'model': 'Sunny'}
+200
+{'marka': 'Opel', 'model': 'Otomobil'}
+{'marka': 'Opel', 'model': 'Adam'}
+{'marka': 'Opel', 'model': 'Agila'}
+{'marka': 'Opel', 'model': 'Ampera'}
+{'marka': 'Opel', 'model': 'Ascona'}
+{'marka': 'Opel', 'model': 'Astra'}
+{'marka': 'Opel', 'model': 'Calibra'}
+{'marka': 'Opel', 'model': 'Cascada'}
+{'marka': 'Opel', 'model': 'Corsa'}
+{'marka': 'Opel', 'model': 'Insignia'}
+{'marka': 'Opel', 'model': 'Kadett'}
+{'marka': 'Opel', 'model': 'Manta'}
+{'marka': 'Opel', 'model': 'Meriva'}
+{'marka': 'Opel', 'model': 'Omega'}
+{'marka': 'Opel', 'model': 'Rekord'}
+{'marka': 'Opel', 'model': 'Tigra'}
+{'marka': 'Opel', 'model': 'Vectra'}
+{'marka': 'Opel', 'model': 'Zafira'}
+200
+{'marka': 'Peugeot', 'model': 'Otomobil'}
+{'marka': 'Peugeot', 'model': '106'}
+{'marka': 'Peugeot', 'model': '107'}
+{'marka': 'Peugeot', 'model': '205'}
+{'marka': 'Peugeot', 'model': '206'}
+{'marka': 'Peugeot', 'model': '206+'}
+{'marka': 'Peugeot', 'model': '207'}
+{'marka': 'Peugeot', 'model': '208'}
+{'marka': 'Peugeot', 'model': '301'}
+{'marka': 'Peugeot', 'model': '305'}
+{'marka': 'Peugeot', 'model': '306'}
+{'marka': 'Peugeot', 'model': '307'}
+{'marka': 'Peugeot', 'model': '308'}
+{'marka': 'Peugeot', 'model': '405'}
+{'marka': 'Peugeot', 'model': '406'}
+{'marka': 'Peugeot', 'model': '407'}
+{'marka': 'Peugeot', 'model': '508'}
+{'marka': 'Peugeot', 'model': '605'}
+{'marka': 'Peugeot', 'model': '607'}
+{'marka': 'Peugeot', 'model': '806'}
+{'marka': 'Peugeot', 'model': '807'}
+{'marka': 'Peugeot', 'model': 'RCZ'}
+200
+{'marka': 'Renault', 'model': 'Otomobil'}
+{'marka': 'Renault', 'model': 'Clio'}
+{'marka': 'Renault', 'model': 'Espace'}
+{'marka': 'Renault', 'model': 'Fluence'}
+{'marka': 'Renault', 'model': 'Grand Scenic'}
+{'marka': 'Renault', 'model': 'Laguna'}
+{'marka': 'Renault', 'model': 'Latitude'}
+{'marka': 'Renault', 'model': 'Megane'}
+{'marka': 'Renault', 'model': 'Modus'}
+{'marka': 'Renault', 'model': 'R 5'}
+{'marka': 'Renault', 'model': 'Safrane'}
+{'marka': 'Renault', 'model': 'Scenic'}
+{'marka': 'Renault', 'model': 'Symbol'}
+{'marka': 'Renault', 'model': 'Talisman'}
+{'marka': 'Renault', 'model': 'Twingo'}
+{'marka': 'Renault', 'model': 'Vel Satis'}
+{'marka': 'Renault', 'model': 'R 9'}
+{'marka': 'Renault', 'model': 'R 11'}
+{'marka': 'Renault', 'model': 'R 12'}
+{'marka': 'Renault', 'model': 'R 19'}
+{'marka': 'Renault', 'model': 'R 21'}
+{'marka': 'Renault', 'model': 'R 25'}
+200
+{'marka': 'Toyota', 'model': 'Otomobil'}
+{'marka': 'Toyota', 'model': 'Auris'}
+{'marka': 'Toyota', 'model': 'Avensis'}
+{'marka': 'Toyota', 'model': 'Camry'}
+{'marka': 'Toyota', 'model': 'Carina'}
+{'marka': 'Toyota', 'model': 'Celica'}
+{'marka': 'Toyota', 'model': 'Corolla'}
+{'marka': 'Toyota', 'model': 'Corona'}
+{'marka': 'Toyota', 'model': 'Cressida'}
+{'marka': 'Toyota', 'model': 'GT 86'}
+{'marka': 'Toyota', 'model': 'Starlet'}
+{'marka': 'Toyota', 'model': 'Urban Cruiser'}
+{'marka': 'Toyota', 'model': 'Verso'}
+{'marka': 'Toyota', 'model': 'Yaris'}
+200
+{'marka': 'Volkswagen', 'model': 'Otomobil'}
+{'marka': 'Volkswagen', 'model': 'Arteon'}
+{'marka': 'Volkswagen', 'model': 'Bora'}
+{'marka': 'Volkswagen', 'model': 'EOS'}
+{'marka': 'Volkswagen', 'model': 'Golf'}
+{'marka': 'Volkswagen', 'model': 'Jetta'}
+{'marka': 'Volkswagen', 'model': 'Lupo'}
+{'marka': 'Volkswagen', 'model': 'New Beetle'}
+{'marka': 'Volkswagen', 'model': 'Passat'}
+{'marka': 'Volkswagen', 'model': 'Passat Variant'}
+{'marka': 'Volkswagen', 'model': 'Polo'}
+{'marka': 'Volkswagen', 'model': 'Scirocco'}
+{'marka': 'Volkswagen', 'model': 'Sharan'}
+{'marka': 'Volkswagen', 'model': 'The Beetle'}
+{'marka': 'Volkswagen', 'model': 'Touran'}
+{'marka': 'Volkswagen', 'model': 'Vento'}
+{'marka': 'Volkswagen', 'model': 'VW CC'}
+200
+{'marka': 'Volvo', 'model': 'Otomobil'}
+{'marka': 'Volvo', 'model': 'C30'}
+{'marka': 'Volvo', 'model': 'C70'}
+{'marka': 'Volvo', 'model': 'S40'}
+{'marka': 'Volvo', 'model': 'S60'}
+{'marka': 'Volvo', 'model': 'S70'}
+{'marka': 'Volvo', 'model': 'S80'}
+{'marka': 'Volvo', 'model': 'S90'}
+{'marka': 'Volvo', 'model': 'V40'}
+{'marka': 'Volvo', 'model': 'V40 Cross Country'}
+{'marka': 'Volvo', 'model': 'V50'}
+{'marka': 'Volvo', 'model': 'V60'}
+{'marka': 'Volvo', 'model': 'V70'}
+{'marka': 'Volvo', 'model': 'V90 Cross Country'}
+{'marka': 'Volvo', 'model': '460'}
+{'marka': 'Volvo', 'model': '850'}
+{'marka': 'Volvo', 'model': '940'}
+{'marka': 'Volvo', 'model': '960'}
+
+Process finished with exit code 0
